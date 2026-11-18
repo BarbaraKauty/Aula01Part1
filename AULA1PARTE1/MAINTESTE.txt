@@ -1,2 +1,3 @@
 Olá, isso é um primeiro teste da aula 1 de LPA
 Adicionando segunda linha de código de teste para primeiro commit
+terceira linha de teste
